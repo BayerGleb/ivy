@@ -50,7 +50,6 @@ General
    general/fourier_encode.rst
    general/swapaxes.rst
    general/transpose.rst
-   general/expand_dims.rst
    general/where.rst
    general/indices_where.rst
    general/isinf.rst
